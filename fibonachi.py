@@ -1,4 +1,4 @@
-# fibonachi whilede
+# fibonachi whileda
 # n = 20
 # num1 = 0
 # num2 = 1
