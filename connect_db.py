@@ -12,7 +12,7 @@ db_params = {
 }
 # conn = psycopg2.connect(**db_params)
 # cur.conn.cursor()
-# cur.execute("""select * from products;""")
+# cur.execute("""select * from product;""")
 # print(cur.fetchall())
 
 
